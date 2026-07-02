@@ -1,7 +1,6 @@
 # Hi there, I'm Aniekan Inyang 👋
 
-### Technical Writer | Aspiring Software Engineer | Virtual Assistant
-
+### Technical Writer • Software Engineer in Training • Virtual Assistant
 Welcome to my GitHub profile!
 
 I'm passionate about simplifying complex technology into practical, beginner-friendly content. I enjoy writing about software engineering, FinTech, APIs, cloud computing, cybersecurity, AI, and Linux while continuously building my technical skills through hands-on projects.
