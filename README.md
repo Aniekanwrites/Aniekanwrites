@@ -14,13 +14,14 @@ I believe learning becomes more meaningful when knowledge is shared.
 
 ## 🚀 About Me
 
-- ✍️ Technical writer focused on developer education
-- 🌱 Currently learning Software Engineering
-- 💳 Exploring FinTech systems and Payment APIs
-- ☁️ Interested in Cloud Computing
+- ✍️ Technical Writer focused on developer education
+- 💻 Software Engineering learner building real-world projects
+- 💳 Exploring FinTech systems, APIs, and digital payments
+- ☁️ Interested in Cloud Computing and DevOps
 - 🔐 Learning Cybersecurity fundamentals
 - 🐧 Linux enthusiast
-- 🤝 Open to collaboration on technical writing and open-source projects
+- 📚 Continuously documenting my learning journey
+- 🤝 Open to technical writing, collaboration, and open-source contributions
 
 ---
 
