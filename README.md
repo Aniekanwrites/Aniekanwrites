@@ -25,16 +25,25 @@ I believe learning becomes more meaningful when knowledge is shared.
 
 ---
 
-## 🛠 Tech I'm Learning
+## 🛠️ Tech Stack
 
-- Git & GitHub
+### Languages
 - HTML
 - CSS
-- JavaScript
-- Python
-- Linux
+- JavaScript (Learning)
+- Python (Learning)
+
+### Tools
+- Git
+- GitHub
+- Visual Studio Code
+
+### Technical Interests
 - REST APIs
+- FinTech
 - Cloud Computing
+- Linux
+- Cybersecurity
 
 ---
 
