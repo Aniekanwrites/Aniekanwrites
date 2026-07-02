@@ -3,7 +3,11 @@
 ### Technical Writer • Software Engineer in Training • Virtual Assistant
 Welcome to my GitHub profile!
 
-I'm passionate about simplifying complex technology into practical, beginner-friendly content. I enjoy writing about software engineering, FinTech, APIs, cloud computing, cybersecurity, AI, and Linux while continuously building my technical skills through hands-on projects.
+I'm passionate about making technology easier to understand through clear, practical, and beginner-friendly content.
+
+As I continue my journey toward becoming a software engineer, I document what I learn, write about emerging technologies, and share insights on software engineering, FinTech, APIs, cloud computing, cybersecurity, AI, and Linux.
+
+I believe learning becomes more meaningful when knowledge is shared.
 
 
 ---
