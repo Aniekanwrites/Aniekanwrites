@@ -5,6 +5,7 @@ Welcome to my GitHub profile!
 
 I'm passionate about simplifying complex technology into practical, beginner-friendly content. I enjoy writing about software engineering, FinTech, APIs, cloud computing, cybersecurity, AI, and Linux while continuously building my technical skills through hands-on projects.
 
+
 ---
 
 ## 🚀 About Me
